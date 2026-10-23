@@ -64,7 +64,7 @@ rfm-customer-segmentation/
 ## How to Run
 
 ```bash
-git clone https://github.com/<USERNAME>/rfm-customer-segmentation.git
+git clone https://github.com/dreamkeeperx/rfm-customer-segmentation.git
 cd rfm-customer-segmentation
 pip install -r requirements.txt
 jupyter notebook RFM_Customer_Segmentation.ipynb
