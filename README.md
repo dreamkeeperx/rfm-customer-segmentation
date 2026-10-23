@@ -2,7 +2,7 @@
 
 Segmenting retail customers by **Recency, Frequency and Monetary value** with Python, and a recommended marketing action for each segment.
 
-🇷🇺 [Русская версия](README.ru.md) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USERNAME>/rfm-customer-segmentation/blob/main/RFM_Customer_Segmentation.ipynb)
+🇷🇺 [Русская версия](README.ru.md) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dreamkeeperx/rfm-customer-segmentation/blob/main/RFM_Customer_Segmentation.ipynb)
 
 ## Overview
 
