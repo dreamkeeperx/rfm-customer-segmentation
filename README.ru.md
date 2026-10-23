@@ -53,7 +53,7 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook · kaggle
 ## Запуск
 
 ```bash
-git clone https://github.com/<USERNAME>/rfm-customer-segmentation.git
+git clone https://github.com/dreamkeeperx/rfm-customer-segmentation.git
 cd rfm-customer-segmentation
 pip install -r requirements.txt
 jupyter notebook RFM_Customer_Segmentation.ipynb
